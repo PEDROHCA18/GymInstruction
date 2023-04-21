@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+background: #49DCA7;
+}
+h1{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ position: relative;
+ transform: translateY(-50%);
+ top: 200px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 55px;
+line-height:55px;
+color: #FFFFFF;
+}
+h2{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ position: relative;
+ transform: translateY(-50%);
+ top: 210px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height:55px;
+color: #FFFFFF;
+}
+.email{
+     position: absolute;
+    width: 183px;
+    height: 183px;
+    left: 470px;
+    top: 300px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 29px;
+color: #FFFFFF;
+}
+.senha{
+     position: absolute;
+    width: 183px;
+    height: 183px;
+    left: 470px;
+    top: 400px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 29px;
+color: #FFFFFF;
+
+}
+input{
+    border-radius: 30px;
+    width: 587px;
+    height: 40px;
+}
+.botao{
+    background: #49dca7;
+    border: 3px solid #ffffff;
+    border-radius: 30px;
+     width: 374px;
+     box-sizing: border-box;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size:36px;
+    line-height: 54px;
+    color: #ffffff;
+}
+.botao1{
+    display: flex;
+ justify-content: center;
+ align-items: center;
+ position: relative;
+ transform: translateY(-50%);
+ top: 470px;
+ 
+}
